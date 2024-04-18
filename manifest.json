@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Feedback Helper",
+    "description": "Automatic feedback submit",
+    "version": "0.0.0.1",
+    "icons": {},
+    "action": {},
+    "content_scripts": [
+        {
+            "js": [
+                "main.js"
+            ],
+            "matches": [
+                "https://mis.nirmauni.ac.in/FEEDBACK/STUDENTFEEDBACKFORM.aspx"
+            ]
+        }
+    ]
+}
