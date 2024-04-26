@@ -11,7 +11,7 @@
 
 4. Enable Developer Mode: Toggle the switch in the top right corner of the extensions page to enable Developer Mode.
 
-5. Import the Extension: Choose Load Unpacked from the Upper Left Corner Option, then select `Feedback_helper-main` folder from your file manager.
+5. Import the Extension: Choose LoadUnpacked from the Upper Left Corner Option, then select `Feedback_helper-main` folder from your file manager.
 
 6. Keep the Folder: Do not delete the `Feedback_helper-main` folder after importing, as the extension needs these files to function.
 
